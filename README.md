@@ -1,4 +1,6 @@
-> ✨ **Note:** This is an opensource Web Application for [Food Devlivery](https://react-quick-food.firebaseapp.com/).
+> ✨Ghar Ka Khaana is my startup, a venture born out of a
+passion for sharing homestate flavours, dedicated to
+bringing you the famous foods from different regions
 
 ### [Live demo](https://react-quick-food.firebaseapp.com/)
 
